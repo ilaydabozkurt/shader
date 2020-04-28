@@ -1,1 +1,0 @@
-# unlit_texture_with_color
